@@ -25,3 +25,14 @@
 </p>
 </p>
 
+---
+
+<h2 align="center">🌐 Languages</h2>
+
+<br/>
+
+<p align="center">
+  <b>I already speak:</b>
+  <br/><br/>
+  <h3 align="center">🇧🇷 Portuguese &nbsp;&nbsp;|&nbsp;&nbsp; 🇺🇸 English</h3>
+</p>

@@ -15,7 +15,7 @@
   Not just studying data — Learning how to think with it.
   <br/>
   <br/>
-  In my free time I like to enjoy my favorite hobbies  —  I love <b>football</b> ⚽, I'am a proud Atletico Mineiro fan  —  I'am fascinated by <b>video games</b> 🎮, my favorite games are Hades and Celeste  —  And I also really enjoy <b>basketball</b> too, #goGRIZZLIES 🐻 
+  In my free time I like to enjoy my favorite hobbies  —  I love <b>football</b> ⚽, I'am a proud Atletico Mineiro fan  —  I'am fascinated by <b>video games</b> 🎮, my favorite games are Hades and Celeste  —  And I also really enjoy <b>basketball</b>, #goGRIZZLIES 🐻 
  <br/>
 <br/>
   <p align="center">

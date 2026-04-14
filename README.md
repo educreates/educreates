@@ -3,7 +3,7 @@
 </p>
 
 ---
-<h2 align="center">About me</h2>
+<h2 align="center">👤 About me</h2>
 <br/>
 <p align="center">
   Hello, my name is Eduardo Andrade, I'am 18 years old and I'm a brazilian Data Science & IA student in my first semester at the renowned PUC Minas University in Belo Horizonte - MG
@@ -19,6 +19,26 @@
 </p>
 <br/>
 <p align="center"><a href="mailto:edugomesandrade2008@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp; <a href="https://instagram.com/oeduardogomess"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a></p>
+
+---
+
+<div align="center">
+
+## 🛠️ Technologies
+
+### Programming Languages:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+--
+
+### Main Tools:
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+</div>
 
 ---
 

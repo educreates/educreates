@@ -42,6 +42,12 @@
 
 ---
 
+<p align="center">
+  <img src="LINK_DO_GIF" width="400px">
+</p>
+
+---
+
 <div align="center">
 
 ## 🌍 Languages

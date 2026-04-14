@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <img src="LINK_DO_GIF" width="400px">
+  <img src="https://github.com/educreates/educreates/blob/main/gifs/pixel%20GIF.gif?raw=true" width="1000px">
 </p>
 
 ---

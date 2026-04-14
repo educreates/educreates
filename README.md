@@ -31,8 +31,10 @@
 
 <br/>
 
-<p align="center">
-  <b>I already speak:</b>
-  <br/><br/>
-  <h3 align="center">🇧🇷 Portuguese &nbsp;&nbsp;|&nbsp;&nbsp; 🇺🇸 English</h3>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">🇧🇷<br/><b>Portuguese</b><br/><sub>Native</sub></td>
+    <td width="80"></td>
+    <td align="center">🇺🇸<br/><b>English</b><br/><sub>Intermediate</sub></td>
+  </tr>
+</table>

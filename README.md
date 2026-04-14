@@ -39,3 +39,13 @@
 </div>
 
 ---
+
+<div align="center">
+
+## 📈 Statistics
+
+<br/>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=educreates&theme=react-dark&custom_title=Eduardo's%20Contribution%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true)
+
+</div>

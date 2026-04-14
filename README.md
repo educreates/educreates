@@ -23,18 +23,24 @@
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-</p>
+
 
 ---
 
-<h2 align="center">🌐 Languages</h2>
+<div align="center">
 
-<br/>
+## 🌍 Languages
 
-<table align="center">
-  <tr>
-    <td align="center">🇧🇷<br/><b>Portuguese</b><br/><sub>Native</sub></td>
-    <td width="80"></td>
-    <td align="center">🇺🇸<br/><b>English</b><br/><sub>Intermediate</sub></td>
-  </tr>
-</table>
+### <b/>I already speak:<b/><br/>
+**🇧🇷 Portuguese**<br/> 
+**🇺🇸 English**
+
+--
+
+### <b/> I want to learn:<b/><br/>
+**🇩🇪 German**  
+**🇨🇳 Mandarin**
+
+</div>
+
+---

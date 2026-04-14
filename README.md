@@ -24,6 +24,16 @@
 
 <div align="center">
 
+<img src="LINK_DO_SEU_GIF" width="400px">
+
+</div>
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
+
 ## 🌍 Languages
 
 ### <b/>I already speak:<b/><br/>

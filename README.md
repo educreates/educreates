@@ -9,13 +9,13 @@
 <br/>
 
 <p align="center">
-  Hello, my name is Eduardo Andrade, I'am 18 years old and I'm a brazilian Data Science & IA student in my first semester, graduating in the renowned PUC Minas University in Belo Horizonte - MG
+  Hello, my name is Eduardo Andrade, I'am 18 years old and I'm a brazilian Data Science & IA student in my first semester at the renowned PUC Minas University in Belo Horizonte - MG
   <br/>
   <br/>
-  Not just studying data. Learning how to think with it.
+  Not just studying data — Learning how to think with it.
   <br/>
   <br/>
-  In my free time I like to enjoy my favorite hobbies  —  I love <b>football</b> ⚽, I'am a proud Atletico Mineiro fan  —  I'am fascinated with <b>video games</b> 🎮, my favorite games are Hades and Celeste  —  And I really enjoy <b>basketball</b> too, #goGRIZZLIES 🐻 
+  In my free time I like to enjoy my favorite hobbies  —  I love <b>football</b> ⚽, I'am a proud Atletico Mineiro fan  —  I'am fascinated by <b>video games</b> 🎮, my favorite games are Hades and Celeste  —  And I also really enjoy <b>basketball</b> too, #goGRIZZLIES 🐻 
  <br/>
 <br/>
   <p align="center">

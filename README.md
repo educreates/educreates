@@ -12,6 +12,9 @@
   Hello, my name is Eduardo Andrade, I'am 18 years old and I'm a brazilian Data Science & IA student in my first semester at the renowned PUC Minas University in Belo Horizonte - MG
   <br/>
   <br/>
+  Here in my Github you will find some projects that are part of my journey in data  — Some of then started in my college, other ones just by curiosity. I like to put ideias in practice and learn in the process.
+  <br/>
+  <br/>
   Not just studying data — Learning how to think with it.
   <br/>
   <br/>

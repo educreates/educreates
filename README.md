@@ -3,11 +3,8 @@
 </p>
 
 ---
-
 <h2 align="center">About me</h2>
-
 <br/>
-
 <p align="center">
   Hello, my name is Eduardo Andrade, I'am 18 years old and I'm a brazilian Data Science & IA student in my first semester at the renowned PUC Minas University in Belo Horizonte - MG
   <br/>
@@ -18,15 +15,10 @@
   Not just studying data — Learning how to think with it.
   <br/>
   <br/>
-  In my free time I like to enjoy my favorite hobbies  —  I love <b>football</b> ⚽, I'am a proud Atletico Mineiro fan  —  I'am fascinated by <b>video games</b> 🎮, my favorite games are Hades and Celeste  —  And I also really enjoy <b>basketball</b>, #goGRIZZLIES 🐻 
- <br/>
-<br/>
-  <p align="center">
-  <a href="mailto:edugomesandrade2008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  In my free time I like to enjoy my favorite hobbies  —  I love <b>football</b> ⚽, I'am a proud Atletico Mineiro fan  —  I'am fascinated by <b>video games</b> 🎮, my favorite games are Hades and Celeste  —  And I also really enjoy <b>basketball</b>, #goGRIZZLIES 🐻
 </p>
-
+<br/>
+<p align="center"><a href="mailto:edugomesandrade2008@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp; <a href="https://instagram.com/oeduardogomess"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a></p>
 
 ---
 
